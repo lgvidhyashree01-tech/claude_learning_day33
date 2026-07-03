@@ -1,0 +1,15 @@
+*What you learned*
+1. *Critical thinking as code*: Used Claude to build gamified challenges that teach headline analysis + emotional manipulation detection
+2. *Interactive EdTech*: Turned media literacy concepts into Headline Detective + Emotion Detector games with instant feedback
+3. *Metrics-driven learning*: Live Media Integrity metrics update as you play, making bias/emotion visible instead of abstract
+4. *Rewrite vs critique*: App doesn’t just flag bad headlines - it generates neutral rewrites. Shows constructive AI use
+5. *Randomization for replay*: New scenarios every replay = tool trains pattern recognition, not memorization
+6. *UX personalization*: Theme selector shows how small UI choices increase engagement in learning tools
+7. *Ethics + AI intersection*: Built a tool that uses AI to analyze AI-era problems: clickbait, rage-bait, manipulation
+
+*Tools used*  
+*Claude.ai* - Media analysis logic + challenge generation + neutral rewrites  
+*HTML5 + CSS3 + Vanilla JS* - Game UI, scoring, live metrics, theme switching, randomization  
+*Browser* - Local simulation, zero backend  
+*GitHub* - Day33 folder for app, screenshots, learnings  
+*Markdown* - http://day33.md documenting media literacy frameworks + prompt insights  
